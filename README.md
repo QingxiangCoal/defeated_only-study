@@ -9,6 +9,6 @@
 失败位置：jm.java
 <br>
 原因：
-<br><video src="resource/1.webm" type="video/webm"></video>
+<br><video src="resources/1.webm" type="video/webm"></video>
 <br>
 改变byte值的效果在意料之外，不是可逆改变
